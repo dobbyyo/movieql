@@ -1,0 +1,19 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "movie api with Grapql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dobbyyo/movieql.git"
+  },
+  "author": "Dobby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dobbyyo/movieql/issues"
+  },
+  "homepage": "https://github.com/dobbyyo/movieql#readme"
+}
